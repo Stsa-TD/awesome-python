@@ -4,6 +4,8 @@ Your contributions are always welcome!
 
 ## Guideline
 
+## Bitte sende eine Email an lieblings_kollege@fima.com
+
 * Add one link per Pull Request.
     * Make sure the PR title is in the format of `Add project-name`.
     * Write down the reason why the library is awesome.
